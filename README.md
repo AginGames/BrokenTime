@@ -1,5 +1,8 @@
 # **_O grze!_**
 
+## Trailer
+![](https://youtu.be/l2SeVLobQr0)
+
 
 ### Czas na odkrywanie nieznanych horyzontów i stawienie czoła wyzwaniom, jakich świat jeszcze nie widział!
   
