@@ -18,5 +18,8 @@
 ![](docs/Einstein.png)
   
   ### Isaac Newton
-    
-  
+  Wciel się w rolę samego Isaaca Newtona w tej ekscytującej przygodzie zbierania jabłek. Podążaj śladami wielkiego naukowca, który odkrył grawitację i zanurz się w fascynującym świecie, gdzie grawitacja rządzi wszystkim. Przeplatając się między gałęziami jabłoni, zbieraj jak najwięcej owoców, unikając przeszkód w postaci robaczywych jabłek 🍎.
+
+  ![](docs/Newton.png)
+
+  ### Nikola Tesla
