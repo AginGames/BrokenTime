@@ -46,3 +46,8 @@
   
   
   # **_Informacje techniczne_**
+
+  | Sprzęt  |  
+  | ------------- |
+  | uwu  |
+  | rel  |
