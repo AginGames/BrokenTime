@@ -5,9 +5,9 @@
  Wciel się w rolę nieustraszonego podróżnika, którego przygoda zaczyna się od awarii wehikułu czasu, wysyłając go w nieznane rejony czasoprzestrzeni. Zadania wybitnych naukowców oraz tajemnice skrywające się w odległych epokach stoją na drodze powrotu do domu. Czy potrafisz przetrwać w nieznanych odmętach wszechświata, odkrywając sekrety, które zmienią Twoje postrzeganie rzeczywistości? Przeżyj emocjonującą podróż w poszukiwaniu drogi powrotnej, zanurzając się w pełnych niebezpieczeństw światach, gdzie każdy krok może być kluczem do ocalenia lub zguby. 
 
 
-# **_Mini Gry!_**
+# **_Mini Gry i postacie!_**
   ### Stephen Hawking
-   Spróbuj swoich matematycznych sił wraz z Stephenem Hawkingiem!  W tej nietypowej przygodzie matematycznej wspólnie z legendarnym uczonym wyruszysz w podróż przez kosmiczną strefę nauki i liczb.
+   Spróbuj swoich matematycznych sił wraz z Stephenem Hawkingiem! W tej nietypowej przygodzie matematycznej wspólnie z legendarnym uczonym wyruszysz w podróż przez kosmiczną strefę nauki i liczb.
       
 ![](docs/Hawking.png)
 
@@ -22,4 +22,6 @@
 
   ![](docs/Newton.png)
 
-  ### Nikola Tesla
+  ### Nikola Tesla 
+  Sprawdź swoje umiejętności w dziedzinie elektrotechniki poprzez zbudowanie silnika potrzebnego do ukończenia budowy wehikuł czasu!
+  
