@@ -1,8 +1,7 @@
 # **_O grze!_**
 
 ## Trailer
-> [Trailer](https://youtu.be/l2SeVLobQr0)
-
+[![Trailer](https://img.youtube.com/vi/l2SeVLobQr0/0.jpg)](https://youtu.be/l2SeVLobQr0)
 
 ### Czas na odkrywanie nieznanych horyzontów i stawienie czoła wyzwaniom, jakich świat jeszcze nie widział!
   
