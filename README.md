@@ -59,12 +59,12 @@ Wciel się w rolę samego Isaaca Newtona w tej ekscytującej przygodzie zbierani
     2.Dostosuj ustawienia
     3.Wybierz nową grę
     4.Wejdź do baru i porozmawiaj z barmanem.
-    5.Udaj się do wyznaczonego przez barmana miejsca w którym wykonasz zadanie by zyskać częśći do wechikułu.
+    5.Udaj się do wyznaczonego przez barmana miejsca w którym wykonasz zadanie by zyskać części do wehikułu.
     6.Jeśli nie wiesz co dalej zrobić, wróć do barmana i zapytaj o wskazówki.
-    7.Barman za każdym razem wskarzę ci miejsce do którego masz się udać.
-    8.W międzyczasie możesz sprawdzić postęp w naprawie wechikułu czasu.
-    9.Po ukończeniu wszystkich misji (4) i zebraniu wszystkich części, udaj się do wechikułu czasu i go aktywuj.
-    10.Po aktywacji wechikułu rozpocznie się animacja gdzie robert oppenheimer przeszkodzi ci w powrocie do domu.
+    7.Barman za każdym razem wskarze ci miejsce do którego masz się udać.
+    8.W międzyczasie możesz sprawdzić postęp w naprawie wehikułu czasu.
+    9.Po ukończeniu wszystkich misji(4) i zebraniu wszystkich części, udaj się do wehikułu czasu i go aktywuj.
+    10.Po aktywacji wehikułu rozpocznie się animacja gdzie robert oppenheimer przeszkodzi ci w powrocie do domu.
     11.Pokonaj Oppenheimera używając kuli ognia(lewy przycisk myszy lub spacja).
     12.Po napisach końcowych można wyłaczyć gre(alt + F4).
 
