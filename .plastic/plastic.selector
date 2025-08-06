@@ -1,0 +1,4 @@
+repository "Cloud Repositories/Gabor The Game@7971601659578@cloud"
+  path "/"
+    br "/main"
+    co "/main"
